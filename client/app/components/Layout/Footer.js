@@ -27,7 +27,7 @@ const Footer = () => (
             </Grid.Column>
             <Grid.Column width={5}>
               <Header inverted as='h4' content='Contact' />
-              This application is developed by Ali Baki Koyuncu. Please contact koyuncu.alibaki@gmail.com for access
+              ABK - koyuncu.alibaki@gmail.com
             </Grid.Column>
           </Grid.Row>
         </Grid>
